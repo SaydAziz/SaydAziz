@@ -1,7 +1,7 @@
 # 🧭 Aziz Saydaminov
 **`Gameplay Programmer`**
 
-- 🔭 I’m currently working on [Odyssey](https://github.com/SaydAziz/Odyssey). A Virtual Reality horror escape game set in space! 
+- 🔭 I’m currently working on [Odyssey](https://github.com/SaydAziz/Odyssey). An Unreal Engine Virtual Reality horror escape game set in space! 
 
 - 👨‍💻 Check out my portfolio website at [https://www.azizportfolio.com/](https://www.azizportfolio.com/)
 
