@@ -1,7 +1,7 @@
 # 🧭 Aziz Saydaminov
 **`Gameplay Programmer`**
 
-- 🔭 I’m currently working on [Odyssey](https://github.com/SaydAziz/Odyssey). An Unreal Engine Virtual Reality horror escape game set in space! 
+- 🔭 I’m currently working on [Dead Rails]. An Unreal Engine party game with online and local co-op! 
 
 - 👨‍💻 Check out my portfolio website at [https://www.azizportfolio.com/](https://www.azizportfolio.com/)
 
@@ -10,6 +10,7 @@
 
 <h3 align="left">Recent Projects</h3>
 
+- [Odyssey](https://github.com/SaydAziz/Odyssey) - An Unreal Engine Virtual Reality horror escape game set in space
 - [Arcane Reclamation](https://github.com/SaydAziz/ProjectMageWars) - A PC movement/parkour based mage game.
 - [Apocalypse Train](https://github.com/IAMColumbia/ApocalypseTrainDev) - A CO-OP survival game where you fuel and protect your train.
 - [Glop Shop](https://github.com/SaydAziz/ConativeVR) - A VR puzzle experience set in a candy shop.
