@@ -1,4 +1,4 @@
-# 🧭 Aziz Saydaminov
+# 🧭 Aziz
 **`Gameplay Programmer`**
 
 - 🔭 I’m currently working on [Dead Rails](https://store.steampowered.com/app/3510990/Dead_Rails/). An Unreal Engine party game with online and local co-op! 
