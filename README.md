@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Dead Rails](https://store.steampowered.com/app/3510990/Dead_Rails/). An Unreal Engine party game with online and local co-op! 
 
-- 📫 How to reach me **aziz.saydaminov02@gmail.com**
-
 
 <h3 align="left">Recent Projects</h3>
 
