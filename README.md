@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Dead Rails](https://store.steampowered.com/app/3510990/Dead_Rails/). An Unreal Engine party game with online and local co-op! 
 
-- 👨‍💻 Check out my portfolio website at [https://www.azizportfolio.com/](https://www.azizportfolio.com/)
-
 - 📫 How to reach me **aziz.saydaminov02@gmail.com**
 
 
@@ -17,11 +15,6 @@
 - [A Hard Year](https://github.com/SaydAziz/A-Hard-Year) - A Virtual Ecosystem simulation where you defend symbiotic organisms from extinction.
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/azizsaydaminov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azizsaydaminov" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Languages -->
